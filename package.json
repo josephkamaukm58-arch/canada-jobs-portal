@@ -1,0 +1,27 @@
+{
+  "name": "canada-jobs-portal",
+  "version": "1.0.0",
+  "description": "Canada Jobs Portal – Canadian Employment Opportunities",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephkamaukm58-arch/canada-jobs-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/josephkamaukm58-arch/canada-jobs-portal/issues"
+  },
+  "homepage": "https://github.com/josephkamaukm58-arch/canada-jobs-portal#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-session": "^1.19.0"
+  }
+}
